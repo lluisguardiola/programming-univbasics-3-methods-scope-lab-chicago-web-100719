@@ -13,7 +13,9 @@ def link
   puts zelda
 end
 
+phrase = "Do A Barell Roll!\n"
+
 def any_phrase(phrase)
-  phrase = "Do A Barell Roll!\n"
+  puts phrase
 end
 
