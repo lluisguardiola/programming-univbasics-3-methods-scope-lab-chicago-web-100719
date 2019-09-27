@@ -15,4 +15,5 @@ end
 
 def any_phrase
   phrase = "Do A Barell Roll!"
+  puts phrase
 end
