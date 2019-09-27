@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  zelda = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  zelda = "It's Dangerous To Go Alone! Take This."
   puts zelda
 end
 
