@@ -9,6 +9,10 @@ def toadstool
 end
 
 def link
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  puts status
+  zelda = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts zelda
+end
+
+def any_phrase
+  phrase = "Do A Barell Roll!"
 end
