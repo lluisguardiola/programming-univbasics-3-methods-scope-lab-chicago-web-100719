@@ -15,4 +15,5 @@ end
 
 def any_phrase(phrase)
   puts "Do A Barell Roll!"
+  "Do A Barell Roll!"
 end
