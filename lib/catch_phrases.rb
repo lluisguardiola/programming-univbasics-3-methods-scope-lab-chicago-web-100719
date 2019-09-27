@@ -15,4 +15,5 @@ end
 
 def any_phrase(phrase)
   phrase = "Do A Barell Roll!\n"
+  return "Do A Barell Roll!\n"
 end
